@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name tas2562_dev_pcb)(type KiCad)(uri ${KIPRJMOD}/tas2562_dev_pcb.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/footprints.pretty)(options "")(descr ""))
+)
