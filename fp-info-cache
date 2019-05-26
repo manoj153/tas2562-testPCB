@@ -1,4 +1,4 @@
-15781017140743253
+15787252086373606
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44023,12 +44023,12 @@ EMI Filter
 19
 4
 footprints
-LQH3NPN100NM0L
+TAS2560YFFR
 
 
 0
-2
-2
+30
+30
 Fuse
 Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
 Fuseholder ATO Blade littelfuse Pudenz 2 Pin
@@ -44722,6 +44722,13 @@ heatsink
 0
 2
 1
+Inductor_SMD
+6.6-6.4
+
+
+0
+2
+2
 Inductor_SMD
 1212_wurth
 
@@ -66100,6 +66107,27 @@ Logo WEEE
 0
 0
 0
+tas2562_dev_pcb
+BGA36
+
+
+0
+36
+36
+tas2562_dev_pcb
+bga36,0.4,0.23
+
+
+0
+36
+36
+tas2562_dev_pcb
+bga36tas
+
+
+0
+36
+36
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
